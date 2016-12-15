@@ -1,0 +1,130 @@
+from pytrends.request import TrendReq
+
+import json
+
+import sys
+
+import time
+
+
+def main():
+
+    sleepSecs = 12
+
+    linesToSkip = 18
+
+    actor_2 = ''
+
+
+    #   Initialize pytrends.
+
+    pytrends = TrendReq('colin.corliss@gmail.com', 'Tr0ub4dor&8',
+
+            custom_useragent=None)
+
+
+    #   Initialize standard_actor.
+
+    standard_actor = 'Leonardo Dicaprio'
+
+
+    #   Get movie_list_lines.
+
+    with open('out.txt') as movie_list_file:
+
+        movie_list = movie_list_file.readlines()
+
+
+    #   Skip lines (we should always skip at least 1, so linesToSkip should always be >= 1).
+
+    for i in range(0, linesToSkip):
+
+        movie_list.pop(0)
+
+
+    #   For each movie...
+
+    for movie in reversed(movie_list):
+
+        #   ...get actor_list for the current movie; if 'Actors' = "N/A", skip the current movie.
+
+        j = json.loads(movie)
+
+        actor_list_string = j['Actors']
+
+        actor_list = actor_list_string.split(',')
+
+		
+
+        try:
+
+            sys.stdout.write('{"Title":' + j['Title'] + ',"Actors":' + j['Actors'])
+
+            sys.stdout.write(',"ActorTrends":[')
+
+
+            #   For each actor, get the trends, standardized to the standard_actor.
+
+            for actor in actor_list:
+
+                time.sleep(sleepSecs)
+
+
+                trend_parameters = {'q': standard_actor + ', ' + actor, 'date': '01/2008 37m'}
+
+                current_trend = pytrends.trend(trend_parameters)
+
+
+                month_list = []
+
+                standard_actor_vals = []
+
+                actor_vals = []
+
+	
+                for row in current_trend['table']['rows']:
+
+                    month_list.append(row['c'][0]['v'])
+
+                    standard_actor_vals.append(row['c'][1]['f'])
+
+                    actor_vals.append(row['c'][2]['f'])
+
+
+                #   Output the trends to stdout (or whatever we are piping them to).
+
+                sys.stdout.write('{"CurrentActor":[')
+
+                sys.stdout.write(', '.join(actor_vals))
+
+                sys.stdout.write('],"StandardActor":[')
+
+                sys.stdout.write(', '.join(standard_actor_vals))
+
+                sys.stdout.write(']}')
+
+
+                if (actor_list.index(actor) != len(actor_list) - 1):
+
+                    sys.stdout.write(',')
+
+
+                sys.stdout.flush()
+
+
+            print ']}'
+
+        except:
+
+            #   Skip movies with actors/movie titles with invalid characters; alert user to skip.
+
+            try:
+
+                print "Invalid character error on " + j['Title']
+
+            except:
+
+                print "Invalid character error on invalid movie title."
+
+
+main()
