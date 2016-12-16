@@ -1,0 +1,794 @@
+Title	AvgTrendScores	FilmTrendScore
+Crazy, Stupid, Love.	44.5	0
+I Love You, Man	6.0	10
+Big Mommas: Like Father, Like Son	5.25	0
+Alexander and the Terrible, Horrible, No Good, Very Bad Day	16.25	0
+I Love You, Beth Cooper	28.5	0
+The Goods: Live Hard, Sell Hard	3.75	0
+Jeff, Who Lives at Home	17.75	0
+Avatar	9.0	958
+Spectre	27.3333333333	89
+The Dark Knight Rises	46.25	117
+John Carter	5.5	22
+Tangled	17.25	23
+Avengers: Age of Ultron	39.75	55
+Harry Potter and the Half-Blood Prince	17.75	15
+The Lone Ranger	65.25	13
+Man of Steel	27.25	90
+The Avengers	30.75	107
+Pirates of the Caribbean: On Stranger Tides	63.3333333333	5
+Men in Black 3	56.25	17
+The Hobbit: The Battle of the Five Armies	17.0	8
+The Amazing Spider-Man	45.75	8
+Robin Hood	10.75	118
+The Hobbit: The Desolation of Smaug	15.25	10
+Battleship	546.333333333	63
+Jurassic World	21.5	76
+Skyfall	28.25	41
+Iron Man 3	20.0	123
+Alice in Wonderland	66.0	152
+Monsters University	18.0	11
+Transformers: Revenge of the Fallen	109.5	20
+Transformers: Age of Extinction	36.25	13
+Oz the Great and Powerful	102.25	7
+The Amazing Spider-Man 2	49.0	5
+TRON: Legacy	24.0	28
+Cars 2	16.0	75
+Green Lantern	48.5	79
+Toy Story 3	18.0	58
+Terminator Salvation	37.75	42
+Furious 7	122.75	119
+World War Z	49.0	61
+X-Men: Days of Future Past	141.5	12
+Star Trek Into Darkness	21.5	23
+Jack the Giant Slayer	16.25	0
+The Great Gatsby	8.75	65
+Prince of Persia: The Sands of Time	12.75	4
+Pacific Rim	10.25	33
+Transformers: Dark of the Moon	26.25	15
+The Good Dinosaur	0.5	3
+Brave	8.25	142
+2012	10.5	1000
+A Christmas Carol	17.25	24
+Jupiter Ascending	103.0	16
+Up	0.25	9112
+Monsters vs. Aliens	29.75	0
+Hugo	7.0	552
+Edge of Tomorrow	53.0	8
+G.I. Joe: The Rise of Cobra	1.33333333333	0
+Inside Out	11.5	58
+Iron Man 2	42.25	104
+Snow White and the Huntsman	90.0	31
+Maleficent	87.5	35
+Dawn of the Planet of the Apes	11.0	9
+Time Traveller	12.25	0
+47 Ronin	16.0	7
+Captain America: The Winter Soldier	74.0	12
+Shrek Forever After	46.75	1
+Tomorrowland	46.25	207
+Big Hero 6	1.0	8
+Wreck-It Ralph	7.75	1
+How to Train Your Dragon	28.5	2
+Guardians of the Galaxy	51.5	61
+Interstellar	38.75	28
+Inception	32.75	21
+The Hobbit: An Unexpected Journey	8.0	0
+X-Men: First Class	6.0	10
+The Hunger Games: Mockingjay - Part 2	124.0	0
+The Sorcerer's Apprentice	16.75	0
+Terminator Genisys	50.75	15
+The Chronicles of Narnia: The Voyage of the Dawn Treader	4.75	0
+Night at the Museum: Battle of the Smithsonian	27.25	0
+X-Men Origins: Wolverine	19.5	5
+Frozen	16.0	461
+Thor: The Dark World	56.5	9
+Mad Max: Fury Road	46.5	10
+Angels & Demons	24.0	2
+Thor	62.25	205
+G-Force	2.75	17
+Wrath of the Titans	30.0	2
+Dark Shadows	81.25	17
+Mission: Impossible - Rogue Nation	58.25	0
+The Wolfman	9.5	5
+Kung Fu Panda 2	131.0	18
+The Last Airbender	10.75	99
+White House Down	78.0	1
+Mars Needs Moms	5.25	0
+Pan	23.75	1392
+Mr. Peabody & Sherman	0.0	0
+Madagascar 3: Europe's Most Wanted	28.0	0
+Mission: Impossible - Ghost Protocol	43.0	0
+Rise of the Guardians	34.25	5
+Exodus: Gods and Kings	36.75	1
+Star Trek	8.5	326
+How to Train Your Dragon 2	35.25	24
+Watchmen	3.75	119
+G.I. Joe: Retaliation	12.75	3
+Captain America: The First Avenger	15.5	4
+The Twilight Saga: Breaking Dawn - Part 2	241.5	0
+Happy Feet 2	0.0	3
+The Revenant	76.25	16
+Turbo	32.3333333333	854
+Rango	54.5	37
+Penguins of Madagascar	0.75	6
+Ant-Man	23.75	4
+The Hunger Games: Catching Fire	115.5	11
+The Twilight Saga: Breaking Dawn - Part 2	241.5	0
+Home	346.5	11225
+Puss in Boots	46.0	10
+Salt	97.75	801
+Noah	24.25	253
+The Adventures of Tintin	15.5	0
+After Earth	76.0	19
+Night at the Museum 3	222.25	3
+Megamind	80.75	3
+R.I.P.D.	39.75	0
+The Hunger Games: Mockingjay - Part 1	177.25	0
+Rio 2	4.25	32
+Fast Five	23.75	18
+Sherlock Holmes: A Game of Shadows	26.75	0
+Clash of the Titans	18.75	27
+The Bourne Legacy	14.25	6
+Life of Pi	0.0	14
+Prometheus	41.0	82
+Elysium	36.75	28
+RoboCop	12.25	50
+How Do You Know	32.5	164
+Knight and Day	73.6666666667	4
+Oblivion	130.5	141
+The Wolverine	19.75	29
+The Croods	85.0	1
+Teenage Mutant Ninja Turtles	60.75	70
+Gravity	46.5	458
+Fantastic Four	18.75	54
+San Andreas	38.25	764
+Insurgent	50.5	38
+Gulliver's Travels	42.25	0
+The Green Hornet	38.5	7
+300: Rise of an Empire	15.25	23
+The Smurfs	18.0	11
+Real Steel	16.75	11
+The Smurfs 2	12.5	0
+Ender's Game	19.75	14
+The Princess and the Frog	2.75	8
+The Martian	34.25	27
+Public Enemies	65.5	9
+The Taking of Pelham 1 2 3	40.6666666667	0
+Little Fockers	30.5	4
+The Other Guys	55.0	4
+Django Unchained	39.0	19
+The Expendables 2	55.75	19
+Where the Wild Things Are	0.0	36
+Pan	23.75	1392
+Epic	7.0	523
+The Tourist	155.75	41
+The Wolf of Wall Street	56.75	6
+Cloud Atlas	39.5	5
+Legend of the Guardians: The Owls of Ga'Hoole	1.75	0
+Hercules	29.5	245
+Land of the Lost	16.0	12
+The Expendables 3	104.0	13
+Point Break	5.0	31
+In the Heart of the Sea	21.25	5
+Green Zone	0.0	10
+The Peanuts Movie	0.0	0
+The Flowers of War	215.0	0
+The Campaign	26.75	33
+Sex and the City 2	22.5	34
+Ice Age: Continental Drift	7.75	0
+Cinderella	19.5	207
+The Lovely Bones	19.75	15
+Seventh Son	16.0	19
+Transcendence	65.25	9
+Rise of the Planet of the Apes	0.25	4
+A Good Day to Die Hard	25.25	2
+Percy Jackson & the Olympians: The Lightning Thief	0.75	0
+Unstoppable	23.75	25
+Cloudy with a Chance of Meatballs	19.5	4
+Ice Age: Dawn of the Dinosaurs	0.0	0
+The Secret Life of Walter Mitty	15.25	4
+The Girl with the Dragon Tattoo	22.3333333333	52
+Sherlock Holmes	24.25	80
+Alvin and the Chipmunks: The Road Chip	13.5	0
+Pixels	44.75	79
+Percy Jackson: Sea of Monsters	13.75	6
+Rio	1.5	2800
+Fantastic Four	18.75	54
+The Nutcracker in 3D	0.0	0
+The Three Musketeers	13.25	10
+Hotel Transylvania	327.0	1
+Safe House	40.0	11
+Tower Heist	23.0	0
+It's Complicated	28.75	0
+Divergent	16.25	83
+Arthur Christmas	17.75	1
+Mirror Mirror	28.0	664
+Scott Pilgrim vs. the World	8.0	3
+Dredd	7.25	13
+Cats & Dogs: The Revenge of Kitty Galore	16.5	0
+The Expendables	35.0	37
+The Hunger Games	12.75	102
+The Hangover Part II	23.0	0
+RED 2	38.25	156
+Alvin and the Chipmunks: Chipwrecked	12.5	0
+Grown Ups 2	55.25	13
+Shutter Island	18.0	14
+Just Go with It	94.75	1
+The Book of Eli	30.5	4
+Fury	106.666666667	167
+Yogi Bear	50.5	17
+Zookeeper	14.25	10
+Hotel Transylvania 2	202.5	11
+Evolution	0.0	686
+Surrogates	16.75	2
+Walking with Dinosaurs 3D	4.0	0
+Nine	28.5	516
+The Last Witch Hunter	59.3333333333	3
+Oceans	7.33333333333	96
+Pompeii	7.0	78
+Top Cat Begins	0.0	0
+Journey 2: The Mysterious Island	30.6666666667	0
+Cloudy with a Chance of Meatballs 2	11.0	1
+Jack and Jill	61.0	17
+The Little Prince	27.0	25
+Despicable Me 2	29.5	20
+Now You See Me	17.5	8
+Grown Ups	37.5	5
+Hotel for Dogs	7.5	0
+Killers	37.25	274
+The Man from U.N.C.L.E.	11.5	0
+Immortals	19.25	45
+Carriers	9.5	91
+Minions	40.75	272
+Sucker Punch	60.75	24
+Funny People	31.75	31
+The SpongeBob Movie: Sponge Out of Water	12.5	0
+Inglourious Basterds	87.3333333333	10
+Hercules	29.5	245
+Alvin and the Chipmunks: The Squeakquel	12.75	0
+Olympus Has Fallen	17.0	0
+Battle Los Angeles	0.5	5
+War Horse	1.75	25
+The Monuments Men	55.75	0
+Wall Street: Money Never Sleeps	14.5	1
+Dracula Untold	5.25	5
+The Dilemma	24.75	6
+Underworld: Awakening	10.5	3
+Rock of Ages	8.75	31
+Killer Elite	35.0	1
+Legends of Oz: Dorothy's Return	39.25	0
+Blackhat	16.75	10
+Escape Plan	55.0	7
+The Legend of Hercules	7.0	0
+The Twilight Saga: Eclipse	306.25	6
+Despicable Me	20.0	5
+Ted 2	44.0	26
+Agora	6.0	259
+Hall Pass	16.25	1
+Dinner for Schmucks	12.0	1
+Abraham Lincoln: Vampire Hunter	5.75	9
+Need for Speed	12.75	487
+Lincoln	13.75	1012
+Due Date	22.75	95
+Unbroken	6.5	25
+The Dictator	5.25	23
+Annie	21.6666666667	333
+Focus	64.0	929
+This Means War	37.5	1
+Resident Evil: Retribution	18.75	19
+I, Frankenstein	8.5	1
+Sin City: A Dame to Kill For	50.5	1
+Everest	0.5	221
+Astro Boy	19.0	9
+Dragon Blade	35.0	22
+The Hateful Eight	7.0	9
+Hop	33.5	1105
+Gone Girl	49.75	40
+2 Guns	48.25	32
+Couples Retreat	8.5	1
+Maze Runner: The Scorch Trials	14.75	3
+Eat Pray Love	17.75	14
+RED	22.25	10055
+Jack Reacher	69.5	7
+This Is It	722.0	80
+Contagion	22.0	13
+Coraline	14.75	6
+ParaNorman	4.5	0
+Jack Ryan: Shadow Recruit	37.25	0
+Joy	165.0	573
+The Boxtrolls	4.75	0
+The Lego Movie	16.25	8
+Gangster Squad	17.5	8
+Year One	53.6666666667	93
+Invictus	45.0	10
+State of Play	24.5	4
+Duplicity	19.5	0
+Planet 51	19.0	3
+Edge of Darkness	0.5	2
+The Soloist	16.3333333333	5
+Priest	8.0	247
+The Avengers	30.75	107
+Mortdecai	74.5	1
+Goosebumps	37.5	24
+The Ridiculous 6	88.5	0
+The Internship	18.3333333333	13
+That's My Boy	69.0	0
+Ghost Rider: Spirit of Vengeance	53.5	1
+Captain Phillips	42.5	1
+Date Night	24.0	16
+Mr. Popper's Penguins	48.5	0
+Free Birds	20.3333333333	74
+The Watch	26.0	1116
+Muppets Most Wanted	22.5	0
+Bullet to the Head	45.5	0
+Black Mass	100.0	16
+Law Abiding Citizen	61.5	0
+Zero Dark Thirty	9.0	3
+Valentine's Day	139.5	149
+The Change-Up	55.0	0
+The Twilight Saga: New Moon	368.666666667	4
+The Adjustment Bureau	49.5	0
+Ted	114.333333333	539
+Anchorman 2: The Legend Continues	33.0	0
+22 Jump Street	113.5	16
+Daddy's Home	85.0	0
+Into the Woods	67.0	17
+We Bought a Zoo	190.0	1
+Knowing	20.0	42
+Moneyball	88.5	2
+Non-Stop	39.0	9
+Race to Witch Mountain	18.0	0
+Hansel & Gretel: Witch Hunters	33.5	0
+The Book of Life	72.0	14
+The Judge	9.66666666667	41
+Marmaduke	31.5	5
+Run All Night	35.6666666667	0
+Your Highness	74.6666666667	7
+Dream House	35.5	23
+Drive Angry	20.6666666667	0
+Anna Karenina	8.0	14
+Chappie	1.5	3
+Child 44	40.0	1
+Jonah Hex	263.25	9
+Prisoners	45.6666666667	42
+The Muppets	29.0	13
+Savages	72.5	11
+Dredd	7.25	13
+The Ghost Writer	13.0	0
+Argo	24.5	52
+The Bounty Hunter	145.0	27
+Victor Frankenstein	42.0	1
+21 Jump Street	45.5	11
+Here Comes the Boom	60.5	1
+Red Riding Hood	26.0	30
+One for the Money	32.5	10
+The Interview	101.5	111
+The Warrior's Way	0.0	0
+American Hustle	73.75	4
+The Proposal	46.0	16
+Lucy	180.0	518
+Lone Survivor	55.5	10
+The Social Network	3.0	6
+Get Hard	44.5	90
+Julie & Julia	27.0	0
+Dumb and Dumber To	49.5	8
+The Intern	73.5	10
+Unbroken	6.5	25
+The Other Woman	56.5	12
+Get Him to the Greek	25.0	2
+Horrible Bosses 2	86.6666666667	2
+Predators	3.66666666667	62
+The Odd Life of Timothy Green	22.0	0
+Paul	5.5	3228
+Sex Tape	70.5	471
+A Million Ways to Die in the West	54.75	2
+Extremely Loud & Incredibly Close	93.0	0
+Fantastic Mr. Fox	43.3333333333	2
+Cirque du Freak: The Vampire's Assistant	6.0	0
+Victor Frankenstein	42.0	1
+A Thousand Words	30.0	7
+The Gunman	18.0	0
+Snowpiercer	30.0	30
+Grudge Match	69.5	1
+The Ugly Truth	43.5	2
+Water for Elephants	165.666666667	20
+Creed	41.5	459
+The Town	13.5	210
+What to Expect When You're Expecting	264.666666667	0
+Rush	72.5	1100
+We're the Millers	61.75	0
+Dolphin Tale 2	55.0	0
+Aloha	95.5	192
+The Rite	14.0	11
+The Hangover	2.5	2
+True Grit	29.0	9
+Identity Thief	8.66666666667	0
+Secretariat	20.5	31
+Friends with Benefits	148.5	17
+Saving Mr. Banks	45.5	0
+This Is 40	18.0	4
+Old Dogs	87.5	14
+In Time	141.5	2142
+Nanny McPhee Returns	8.5	0
+Concussion	114.5	65
+Broken City	36.0	6
+Parker	287.0	633
+The Young Victoria	17.5	7
+The Tree of Life	67.0	12
+Sabotage	65.0	27
+Time Traveller	12.25	0
+The Maze Runner	6.5	20
+Unfinished Business	11.5	0
+Stolen	34.0	161
+The Longest Ride	8.5	2
+Wanderlust	95.3333333333	13
+This Is the End	32.0	18
+The Big Wedding	56.3333333333	6
+Source Code	27.75	118
+Repo Men	21.0	0
+The Incredible Burt Wonderstone	52.25	0
+Going the Distance	8.5	2
+The Grand Budapest Hotel	13.5	1
+Vacation	9.0	573
+The Vow	50.5	9
+Extraordinary Measures	21.5	0
+Up in the Air	23.25	11
+Warm Bodies	11.5	5
+Looper	51.0	13
+Hope Springs	37.0	0
+Bride Wars	43.5	0
+Midnight in Paris	42.0	1
+The Nut Job	37.0	0
+Sicario	25.3333333333	13
+Southpaw	57.0	9
+The Age of Adaline	58.6666666667	2
+Hanna	14.5	300
+9	0.5	4590
+Side Effects	145.0	842
+Get on Up	6.0	52
+The Five-Year Engagement	21.5	0
+The Next Three Days	26.0	0
+Love & Other Drugs	46.6666666667	0
+Hoodwinked Too! Hood vs. Evil	34.5	0
+The Imaginarium of Doctor Parnassus	0.5	11
+Runner Runner	132.5	340
+Dead Man Down	13.5	0
+Machine Gun Preacher	26.6666666667	1
+Animals United	1.5	0
+Pitch Perfect 2	43.5	44
+Last Vegas	74.0	10
+30 Minutes or Less	15.75	1
+3 Days to Kill	19.5	0
+Our Brand Is Crisis	37.3333333333	0
+My Sister's Keeper	47.5	1
+Case 39	24.5	20
+Paul Blart: Mall Cop	11.5	0
+Legion	9.0	184
+Pain & Gain	45.3333333333	1
+Brothers	59.0	2014
+The Raven	7.66666666667	35
+Self/less	31.0	0
+The Best of Me	8.33333333333	22
+The Help	31.3333333333	273
+No Strings Attached	89.0	0
+Million Dollar Arm	10.5	0
+The Giver	39.5	34
+Blood Ties	86.0	1
+The Sitter	12.5	2
+August: Osage County	47.6666666667	1
+Dear John	30.0	14
+The Losers	28.6666666667	4
+Don't Be Afraid of the Dark	29.0	0
+The Box	49.0	370
+Legend	54.5	1071
+The 33	25.0	20
+Warrior	17.6666666667	536
+The Road	0.5	452
+Carnage	27.25	37
+Bad Lieutenant: Port of Call New Orleans	80.0	0
+The Counsellor	53.6666666667	0
+On the Road	97.6666666667	94
+Point Break	5.0	31
+The Men Who Stare at Goats	33.3333333333	0
+I Don't Know How She Does It	30.5	0
+Zombieland	7.0	3
+The Ides of March	45.3333333333	2
+The Adventurer: The Curse of the Midas Box	13.0	0
+The Water Diviner	29.0	0
+Delivery Man	18.5	4
+Victor Frankenstein	42.0	1
+Homefront	112.0	17
+Hit and Run	32.0	34
+Before I Go to Sleep	39.5	1
+Stone	34.6666666667	1883
+Silver Linings Playbook	86.3333333333	1
+Away We Go	5.5	1
+Tinker Tailor Soldier Spy	6.5	13
+Tammy	12.5	76
+The Descendants	44.0	3
+Madea's Witness Protection	26.5	0
+Orphan	2.5	28
+Spotlight	35.0	137
+This Is Where I Leave You	32.0	1
+The Debt	15.0	39
+You Again	34.5	111
+She's Out of My League	0.0	0
+Alpha and Omega	52.0	10
+Silent Hill: Revelation 3D	8.66666666667	0
+Secret in Their Eyes	55.6666666667	1
+What's Your Number?	29.5	0
+Let Me In	0.0	44
+Everybody's Fine	54.5	0
+Little Boy	21.5	93
+A Dangerous Method	50.5	1
+A Most Violent Year	12.0	0
+The Cold Light of Day	40.0	2
+By the Sea	256.0	62
+Zambezia	12.5	0
+The Frozen Ground	81.0	0
+Bad Teacher	97.0	3
+The Switch	113.0	52
+Leap Year	16.0	14
+Take Me Home Tonight	9.66666666667	1
+Won't Back Down	8.66666666667	4
+The Invention of Lying	25.5	0
+Neighbors	28.0	71
+Birdman or (The Unexpected Virtue of Ignorance)	93.0	0
+Observe and Report	29.0	0
+Love Happens	89.0	1
+127 Hours	26.5	6
+Love the Coopers	18.6666666667	0
+Steve Jobs	38.0	119
+Youth in Revolt	16.0	0
+The Last Station	9.25	0
+Labor Day	37.5	184
+Red Lights	23.6666666667	21
+TRON: Legacy	24.0	28
+Evil Dead	0.5	46
+Escobar: Paradise Lost	32.0	3
+Moonrise Kingdom	32.5	4
+Jennifer's Body	191.0	0
+The Immigrant	25.0	10
+Trance	16.5	127
+The Homesman	10.0	0
+The Imitation Game	42.0	2
+Snitch	37.0	28
+End of Watch	31.5	3
+Aloha	95.5	192
+Clash of the Titans	18.75	27
+Drive	32.0	3600
+All About Steve	29.6666666667	0
+Country Strong	24.5	2
+The Place Beyond the Pines	129.5	2
+The November Man	14.6666666667	0
+Post Grad	5.0	5
+Never Let Me Go	11.0	12
+Centurion	3.0	66
+The Son of No One	60.0	0
+Khumba	9.5	0
+Automata	27.5	19
+Good Deeds	28.0	0
+The Iron Lady	17.0	0
+Teenage Mutant Ninja Turtles	60.75	70
+Black Swan	82.5	32
+RoboCop	12.25	50
+No Good Deed	19.0	1
+Ex Machina	4.66666666667	23
+Chloe	26.6666666667	172
+Brothers	59.0	2014
+The Perks of Being a Wallflower	19.0	15
+The Call	45.5	374
+I Love You Phillip Morris	38.3333333333	27
+Womb	15.5	41
+The Killer Inside Me	75.3333333333	3
+Solitary Man	22.0	0
+Machete	124.0	36
+Chronicle	0.0	294
+Top Five	29.0	20
+Philomena	11.0	3
+About Time	18.3333333333	80
+Stoker	30.3333333333	34
+Home	346.5	11225
+The Fighter	44.3333333333	71
+Woman in Gold	46.0	0
+Inside Llewyn Davis	184.666666667	2
+Brighton Rock	13.0	0
+The Best Exotic Marigold Hotel	5.0	1
+The Second Best Exotic Marigold Hotel	1.5	0
+Mud	72.0	226
+My Week with Marilyn	15.0	0
+The Gift	11.3333333333	126
+Big Eyes	34.3333333333	21
+MacGruber	4.5	3
+The Tourist	155.75	41
+Cedar Rapids	2.0	80
+Bad Words	9.5	16
+Danny Collins	33.3333333333	0
+Bucky Larson: Born to Be a Star	8.0	0
+The Iceman	37.0	8
+Coriolanus	30.0	4
+World's Greatest Dad	35.5	1
+Strangerland	49.5	0
+American Heist	16.0	6
+Into the Grizzly Maze	8.66666666667	0
+The Runaways	165.0	12
+Skin Trade	15.0	0
+Baggage Claim	14.5	3
+Nightcrawler	30.5	11
+50/50	17.5	10
+That Awkward Moment	2.66666666667	4
+Another Year	0.0	9
+Begin Again	30.3333333333	10
+Wild Target	22.0	0
+Aloft	20.0	31
+An Education	3.0	28
+Extract	31.0	235
+Harry Brown	8.0	17
+Magic Mike	63.5	6
+The Great Gatsby	8.75	65
+Skyfall	28.25	41
+A Single Man	6.33333333333	3
+Cyrus	4.66666666667	1273
+The Christmas Candle	0.0	0
+The Mighty Macs	9.0	0
+Freeheld	32.25	1
+Shame	12.0	70
+The Messenger	6.5	77
+Bernie	60.5	100
+The Greatest	13.6666666667	154
+Deadfall	41.0	0
+Don Jon	87.0	5
+Salvation Boulevard	20.0	0
+Miss Julie	8.0	0
+The Gift	11.3333333333	126
+Dallas Buyers Club	47.0	2
+The Way Way Back	14.0	21
+Spring Breakers	355.0	32
+Everything Must Go	36.5	5
+Rabbit Hole	24.6666666667	10
+Take Shelter	4.5	0
+Treading Water	0.0	0
+After.Life	20.5	0
+The Sweeney	7.5	13
+Pan	23.75	1392
+Exodus: Gods and Kings	36.75	1
+Maggie	77.5	214
+The Kids Are All Right	15.3333333333	0
+The Art of Getting By	23.0	0
+Zipper	15.0	74
+Trust	7.33333333333	1195
+The Watch	26.0	1116
+Margin Call	10.0	0
+Beginners	15.0	249
+Antiviral	0.0	10
+Slow West	24.0	0
+Please Give	4.0	10
+Alice in Wonderland	66.0	152
+They Came Together	24.0	1
+Cinderella	19.5	207
+Robot & Frank	6.0	0
+The Spectacular Now	11.0	1
+Super	41.5	5680
+The Calling	10.0	51
+Saint John of Las Vegas	17.0	0
+Plush	8.5	90
+All Is Bright	17.5	0
+The Curse of Downers Grove	0.0	0
+Buried	23.6666666667	80
+Submarine	0.0	92
+The Square	0.0	192
+The Last Exorcism	0.0	0
+Nowhere Boy	0.0	12
+Beasts of the Southern Wild	0.0	0
+Higher Ground	3.33333333333	10
+The Greatest Movie Ever Sold	5.25	2
+I Spit on Your Grave	0.25	6
+The Lunchbox	0.0	0
+Grace Unplugged	0.0	0
+Out of the Dark	0.0	7
+The Gatekeepers	0.0	0
+The To Do List	9.66666666667	20
+Unsullied	0.0	2
+Mooz-Lum	4.0	0
+Road Hard	2.75	10
+Amigo	0.0	490
+The Lords of Salem	0.0	0
+Housebound	0.0	0
+Closer to the Moon	5.5	0
+Jack Reacher	69.5	7
+#Horror	0.0	0
+Girl House	0.0	40
+Eddie: The Sleepwalking Cannibal	0.0	0
+Filly Brown	94.0	1
+The Lion of Judah	2.0	0
+Da Sweet Blood of Jesus	0.0	0
+The Amazing Catfish	0.0	0
+Home Run	0.0	58
+The Second Mother	0.0	0
+Blue Like Jazz	2.25	0
+Beyond the Black Rainbow	0.0	0
+The Raid: Redemption	0.0	0
+Rocket Singh: Salesman of the Year	0.0	0
+The Sleepwalker	0.0	0
+Unfriended	1.75	16
+Chernobyl Diaries	0.0	0
+Blue Valentine	11.75	6
+The Devil Inside	0.0	2
+The Green Inferno	0.25	5
+Departure	0.0	62
+The Sessions	2.0	19
+October Baby	0.0	15
+The Skeleton Twins	13.3333333333	0
+Obvious Child	0.75	0
+20 Feet from Stardom	1.0	0
+Goosebumps	37.5	24
+Palo Alto	21.6666666667	102
+Ajami	0.0	0
+The Lovely Bones	19.75	15
+The Act of Killing	0.0	0
+Antarctica: A Year on Ice	0.0	0
+A Lego Brickumentary	5.25	0
+The Perfect Host	0.0	0
+Creative Control	0.0	0
+Heli	0.0	56
+Hits	0.0	579
+ZMD: Zombies of Mass Destruction	0.0	0
+Black Rock	0.0	78
+Truth or Die	0.0	0
+Trance	16.5	127
+Banshee Chapter	0.0	0
+Food Chains	0.0	8
+L!fe Happens	19.0	0
+Circumstance	0.0	15
+Fruitvale Station	0.0	0
+Snitch	37.0	28
+Elza	0.0	10
+1982	9.5	135
+For a Good Time, Call...	21.5	0
+Celeste & Jesse Forever	17.5	0
+American Hero	0.0	10
+A Separation	0.0	10
+Not Cool	4.0	10
+Dead Snow	0.0	0
+Safety Not Guaranteed	3.25	4
+Kill List	0.25	10
+The Innkeepers	1.0	0
+The Sisterhood of Night	3.0	0
+Escape from Tomorrow	0.0	5
+Starsuckers	0.5	0
+Walter	5.0	511
+The Maid's Room	0.0	0
+To Save a Life	0.0	38
+Sholem Aleichem: Laughing in the Darkness	0.0	0
+Drinking Buddies	72.0	0
+Deceptive Practice: The Mysteries and Mentors of Ricky Jay	0.0	0
+The Other Dream Team	0.0	0
+Rubber	0.0	379
+Home	346.5	11225
+Monsters	0.0	684
+Detention of the Dead	0.5	0
+Good Kill	0.0	10
+The Outrageous Sophie Tucker	10.0	0
+Now Is Good	33.5	10
+Born to Fly: Elizabeth Streb vs. Gravity	0.0	0
+Oz the Great and Powerful	102.25	7
+Blue Ruin	0.0	1
+I Want Your Money	0.5	0
+Maniac	0.0	52
+My Dog Tulip	6.0	0
+Dogtooth	0.0	0
+The Looking Glass	0.0	10
+Locker 13	0.333333333333	1
+Some Guy Who Kills People	0.5	0
+Compliance	0.25	120
+Like Crazy	23.5	34
+The Canyons	60.0	14
+Exam	0.0	959
+Ink	0.0	623
+Burn	0.0	788
+The Grace Card	0.0	0
+Side Effects	145.0	842
+The Calling	10.0	51
+Cheap Thrills	0.0	0
+Happy Christmas	60.0	29
+Sabotage	65.0	27

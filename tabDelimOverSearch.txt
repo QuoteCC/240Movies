@@ -1,0 +1,43 @@
+Title	Trend Score
+Walter	511
+Nine	516
+Lucy	518
+Epic	523
+Warrior	536
+Ted	539
+Hugo	552
+Joy	573
+Vacation	573
+Hits	579
+Parker	633
+Mirror Mirror	664
+Monsters	684
+Evolution	686
+San Andreas	764
+Burn	788
+Salt	801
+Side Effects	842
+Turbo	854
+Focus	929
+Avatar	958
+TwoThousand12	1000
+Lincoln	1012
+Legend	1071
+Rush	1100
+Hop	1105
+The Watch	1116
+Trust	1195
+Cyrus	1273
+Pan	1392
+Stone	1883
+Brothers	2014
+Brothers	2014
+In Time	2142
+Rio	2800
+Paul	3228
+Drive	3600
+Nine	4590
+Super	5680
+Up	9112
+RED	10055
+Home	11225

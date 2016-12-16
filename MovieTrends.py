@@ -15,7 +15,7 @@ def main():
 
     #   Initialize pytrends.
 
-    pytrends = TrendReq('surprisefish14@gmail.com', 'Fugi26441996', custom_useragent=None)
+    pytrends = TrendReq('EMAIL', 'PASS', custom_useragent=None)
 
 
     #   Initialize standard_actor.
